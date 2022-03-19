@@ -3,7 +3,7 @@
 The development of a COVID-19 and pneumonia detection from
 chest X-ray images with Deep Learning.
 
-**Abstract**
+**Abstract:**\
 The goal of this work was to develop a deep learning model to classify X-Ray images of
 healthy patients, patients with Covid-19 and patients with pneumonia. This task can be hard due to the fact
 that if the disease is caught in an early stage, it’s unlikely that anything substantial will appear on the X-Ray.
